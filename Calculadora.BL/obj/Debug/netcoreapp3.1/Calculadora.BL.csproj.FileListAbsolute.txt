@@ -1,0 +1,9 @@
+C:\Users\sergi\Source\Repos\2021-1-Topicos\Calculadora.BL\bin\Debug\netcoreapp3.1\Calculadora.BL.deps.json
+C:\Users\sergi\Source\Repos\2021-1-Topicos\Calculadora.BL\bin\Debug\netcoreapp3.1\Calculadora.BL.dll
+C:\Users\sergi\Source\Repos\2021-1-Topicos\Calculadora.BL\bin\Debug\netcoreapp3.1\Calculadora.BL.pdb
+C:\Users\sergi\Source\Repos\2021-1-Topicos\Calculadora.BL\obj\Debug\netcoreapp3.1\Calculadora.BL.csprojAssemblyReference.cache
+C:\Users\sergi\Source\Repos\2021-1-Topicos\Calculadora.BL\obj\Debug\netcoreapp3.1\Calculadora.BL.AssemblyInfoInputs.cache
+C:\Users\sergi\Source\Repos\2021-1-Topicos\Calculadora.BL\obj\Debug\netcoreapp3.1\Calculadora.BL.AssemblyInfo.cs
+C:\Users\sergi\Source\Repos\2021-1-Topicos\Calculadora.BL\obj\Debug\netcoreapp3.1\Calculadora.BL.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Source\Repos\2021-1-Topicos\Calculadora.BL\obj\Debug\netcoreapp3.1\Calculadora.BL.dll
+C:\Users\sergi\Source\Repos\2021-1-Topicos\Calculadora.BL\obj\Debug\netcoreapp3.1\Calculadora.BL.pdb
